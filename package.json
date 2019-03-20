@@ -4,8 +4,11 @@
   "private": true,
   "dependencies": {
     "react": "^16.8.4",
+    "react-cache": "^2.0.0-alpha.1",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-redux": "^6.0.1",
+    "react-scripts": "2.1.8",
+    "voicebase-player": "0.0.6"
   },
   "scripts": {
     "start": "react-scripts start",
